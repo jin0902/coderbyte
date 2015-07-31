@@ -8,4 +8,4 @@ end
 # to see how to enter arguments in Ruby scroll down   
 Palindrome(STDIN.gets)       
 
-#9점 다시 풀어보기
+# 4점 다시 풀어보기
